@@ -1,0 +1,3 @@
+﻿  classesTemplates.cpp
+D:\ProgramData\HW11\classesTemplates\classesTemplates\classesTemplates.cpp(144,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  classesTemplates.vcxproj -> D:\ProgramData\HW11\classesTemplates\x64\Debug\classesTemplates.exe
